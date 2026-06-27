@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Romli] 👋
+# Hi there, I'm **Muhammad Romli** 👋
 
 I’m a developer focusing on backend logic and infrastructure. I prefer clean code, strong fundamentals, and systems that actually work over chasing corporate buzzwords.
 
