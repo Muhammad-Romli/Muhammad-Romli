@@ -19,11 +19,11 @@ My primary language right now is **Python**, but I am actively expanding my back
 
 ### 📊 My Coding Dashboard
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Romli&show_icons=true&theme=tokyonight" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Romli&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Romli&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Romli&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-💼 [LinkedIn] https://www.linkedin.com/in/muhammad-romli-2b2826419?utm_source=share_via&utm_content=profile&utm_medium=member_android | ✉️ [Email](mailto:your.email@example.com)
+💼 [LinkedIn] https://www.linkedin.com/in/muhammad-romli-2b2826419?utm_source=share_via&utm_content=profile&utm_medium=member_android | ✉️ [Email](mailto:muhammadromli.git.com)
