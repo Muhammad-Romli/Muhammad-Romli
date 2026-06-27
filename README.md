@@ -1,3 +1,5 @@
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Romli&show_icons=true&theme=radical)
+
 # Hi there, I'm **Muhammad Romli** 👋
 
 I’m a developer focusing on backend logic and infrastructure. I prefer clean code, strong fundamentals, and systems that actually work over chasing corporate buzzwords.
@@ -18,8 +20,8 @@ My primary language right now is **Python**, but I am actively expanding my back
 
 ### 📊 My Coding Dashboard
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Romli&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Romli&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
