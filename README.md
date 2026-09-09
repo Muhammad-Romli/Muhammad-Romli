@@ -24,7 +24,9 @@ Primary language: **Python**. Currently learning **Go** and **C++**.
 ### 📌 Projects
 - **Vector-Seek** — a semantic search backend (search + build), using Sentence-Transformers for embeddings.
 - **Oculus** — frontend for Vector-Seek, connected and working, built with a surveillance/dystopian visual theme.
-- **Static Site Generator** — converts Markdown to HTML.
+- **Static Site Generator** *(Early project)*— converts Markdown to HTML.
+- **AI-Agent** *(Early project)* — my first attempt at building an AI agent.
+
 
 ### 📫 Contact
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-romli-2b2826419) | ✉️ [Email](mailto:muhammadromli.git.com)
