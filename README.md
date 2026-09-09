@@ -8,7 +8,7 @@ Three part of coding that i hate:
 I love coding other than that ❤
 
 ### 🛠️ Current Stack
-Primary language: **Python**. Currently learning **Go**.
+Primary language: **Python**. Currently learning **Go** and **C++**.
 
 
 
@@ -18,6 +18,11 @@ Primary language: **Python**. Currently learning **Go**.
 
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+
+
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 
