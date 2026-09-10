@@ -1,6 +1,6 @@
 # Hi, I'm **Justicar** 👋
 
-Three part of coding that i hate:
+Three parts of coding that i hate:
 - Naming variable
 - Making README about myself
 - Merge conflicts
