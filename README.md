@@ -12,11 +12,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=40&lines=Backend+developer;Python+and+Go;APIs+and+CLI+tools;Semantic+search+and+AI+experiments" alt="Backend developer" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2E88&height=3" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=3" width="100%" alt="" />
 </p>
 
 ## About
