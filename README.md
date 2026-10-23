@@ -43,7 +43,6 @@ I am a backend developer who builds APIs, command-line tools and small web proje
   <img height="32" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF&labelColor=0D1117" />
   <img height="32" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF&labelColor=0D1117" />
   <img height="32" alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00E5FF&labelColor=0D1117" />
-  <img height="32" alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00E5FF&labelColor=0D1117" />
   <img height="32" alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF&labelColor=0D1117" />
   <img height="32" alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00E5FF&labelColor=0D1117" />
 </p>
