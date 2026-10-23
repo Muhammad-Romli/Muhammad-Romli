@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=100000&color=00E5FF&center=true&vCenter=true&width=800&height=70&repeat=false&lines=MUHAMMAD+ROMLI" alt="Muhammad Romli" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=100000&color=00E5FF&center=true&vCenter=true&width=800&height=70&repeat=false&lines=JUSTICAR" alt="Muhammad Romli" />
 </h1>
 
 <p align="center">
