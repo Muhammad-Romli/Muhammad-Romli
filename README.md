@@ -26,8 +26,35 @@ Backend dev. Math, physics & code.
 
 ### `justicar@Justicar:~$ neofetch`
 
-| <img src="flame.svg" width="180" alt="flame emblem" /> | <pre>Justicar@Justicar<br>--------------------------<br>OS: JusticarOS 1.0<br>Host: localhost<br>Kernel: Curiosity<br>Shell: bash<br>Terminal: GitHub<br>Editor: VS Code<br>Languages:<br>██████████ Go<br>████████░░ Python<br>██████░░░░ SQL (PostgreSQL, SQLite)<br>█████░░░░░ C++<br>Stack: FastAPI · Git · Linux</pre> |
-|---|---|
+<table>
+<tr>
+<td valign="middle">
+<img src="infernape.jpg" width="180" alt="Infernape" />
+</td>
+<td>
+
+```
+Justicar@Justicar
+--------------------------
+OS:        JusticarOS 1.0
+Host:      localhost
+Kernel:    Curiosity
+Shell:     bash
+Terminal:  GitHub
+Editor:    VS Code
+
+Languages:
+██████████ Go
+████████░░ Python
+██████░░░░ SQL (PostgreSQL, SQLite)
+█████░░░░░ C++
+
+Stack: FastAPI · Git · Linux
+```
+
+</td>
+</tr>
+</table>
 
 <sub>Note: the bars show my comfort ranking, not mastery. A 10 means Go is my strongest language, not that I've mastered it.</sub>
 
@@ -97,8 +124,24 @@ Coding    -> backend, search, CLI tools
 
 ### `justicar@Justicar:~$ pokedex --favorite`
 
-| <img src="https://cdna.artstation.com/p/assets/images/images/068/065/378/large/lin-chang-d-2.jpg?1696917555" width="180" alt="Infernape" /> | <pre>Pokemon:    Infernape<br>Type:       Fire / Fighting<br>Region:     Sinnoh<br>Starter:    Chimchar<br>Evolution:  Chimchar -> Monferno -> Infernape</pre> |
-|---|---|
+<table>
+<tr>
+<td valign="middle">
+<img src="https://cdna.artstation.com/p/assets/images/images/068/065/378/large/lin-chang-d-2.jpg?1696917555" width="200" alt="Infernape" />
+</td>
+<td>
+
+```
+Pokemon:    Infernape
+Type:       Fire / Fighting
+Region:     Sinnoh
+Starter:    Chimchar
+Evolution:  Chimchar -> Monferno -> Infernape
+```
+
+</td>
+</tr>
+</table>
 
 <sub>Art: Lin Chang on ArtStation. Pokémon is © Nintendo / Game Freak / The Pokémon Company.</sub>
 
