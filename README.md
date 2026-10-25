@@ -29,7 +29,7 @@ Backend dev. Math, physics & code.
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="scales.png" width="200" alt="Scales of justice" />
+<img src="scales-dark.png" width="200" alt="Scales of justice" />
 </td>
 <td>
 
