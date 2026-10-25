@@ -28,8 +28,8 @@ Backend dev. Math, physics & code.
 
 <table>
 <tr>
-<td valign="middle">
-<img src="infernape.jpg" width="180" alt="Infernape" />
+<td align="center" valign="middle">
+<img src="scales.png" width="200" alt="Scales of justice" />
 </td>
 <td>
 
