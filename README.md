@@ -105,9 +105,9 @@ projects
 ### `justicar@Justicar:~$ cat interests.md`
 
 ```
-Math      -> patterns, logic, problem solving
-Physics   -> why things move the way they do
-Coding    -> backend, search, CLI tools
+Math      -> patterns, problem solving, thinking
+Physics   -> if apple fall, does the moon also fall?
+Coding    -> problem solving, creating, i like technologies
 ```
 
 * * *
@@ -116,8 +116,10 @@ Coding    -> backend, search, CLI tools
 
 ```
 ██████░░░░ Finish my backend learning path
-█████░░░░░ Ship ArachNet
-████░░░░░░ Build more with Go & PostgreSQL
+████░░░░░░ Build all ideas in my mind
+░░░░░░░░░░ Land a job at big foreign company
+░░░░░░░░░░ Soling P = NP in less than (n^10)
+░░░░░░░░░░ Creating "Ultimate Ultron"
 ```
 
 * * *
