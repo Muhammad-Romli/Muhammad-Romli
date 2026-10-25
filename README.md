@@ -39,9 +39,10 @@ Justicar@Justicar
 OS:        JusticarOS 1.0
 Host:      localhost
 Kernel:    Curiosity
-Shell:     bash
-Terminal:  GitHub
-Editor:    VS Code
+Terminal:  Neural Network
+Editor:    Hands(30 WPM currently)
+CPU:       Brain @ ~20W
+Uptime:    16h (needs reboot per day, refuses to)
 
 Languages:
 ██████████ Go
