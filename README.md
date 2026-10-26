@@ -118,8 +118,8 @@ Coding    -> problem solving, creating, i like technologies
 ```
 ██████░░░░ Finish my backend learning path
 ████░░░░░░ Build all ideas in my mind
-░░░░░░░░░░ Land a job at big foreign company
-░░░░░░░░░░ Soling P = NP in less than (n^10)
+██░░░░░░░░ Land a job at foreign company
+░░░░░░░░░░ Solving P = NP in less than (n^10)
 ░░░░░░░░░░ Creating "Ultimate Ultron"
 ```
 
